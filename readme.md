@@ -1,4 +1,4 @@
-ini adalah tugas membuat CV pribadi menggunakan html saja
+ini adalah tugas membuat CV pribadi menggunakan html 
 
 tujuan tugas ini, adalah pengenalkan Markup Language kepada mahasiswa
 
